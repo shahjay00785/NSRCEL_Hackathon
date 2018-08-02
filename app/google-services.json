@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "918894313064",
+    "firebase_url": "https://nsrcel-hackathon-1753d.firebaseio.com",
+    "project_id": "nsrcel-hackathon-1753d",
+    "storage_bucket": "nsrcel-hackathon-1753d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918894313064:android:a74441393aea4d43",
+        "android_client_info": {
+          "package_name": "com.example.jayshah.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918894313064-k5rhl5ch9dphironk6h0vv5g8prulue0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayshah.hackathon",
+            "certificate_hash": "bd9c00fc37505134de9e103c91139088f1ee9a06"
+          }
+        },
+        {
+          "client_id": "918894313064-r7n8qsllr2fen6nvn307eavd945mr4sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpCS9TOx8_BMgSv6ardsy7W16Q6_8aPuc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918894313064-r7n8qsllr2fen6nvn307eavd945mr4sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918894313064:android:2282ad1fff646a9e",
+        "android_client_info": {
+          "package_name": "com.example.jayshah.nsrcel_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918894313064-7g0q88fefefl54lqbn89d9anmfi38rjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayshah.nsrcel_hackathon",
+            "certificate_hash": "bd9c00fc37505134de9e103c91139088f1ee9a06"
+          }
+        },
+        {
+          "client_id": "918894313064-r7n8qsllr2fen6nvn307eavd945mr4sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpCS9TOx8_BMgSv6ardsy7W16Q6_8aPuc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918894313064-r7n8qsllr2fen6nvn307eavd945mr4sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
